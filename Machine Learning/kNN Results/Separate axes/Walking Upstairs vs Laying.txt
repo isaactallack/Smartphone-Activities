@@ -1,0 +1,35 @@
+X
+
+[[230   1]
+ [  2 263]]
+
+             precision    recall  f1-score   support
+
+        2.0       0.99      1.00      0.99       231
+        6.0       1.00      0.99      0.99       265
+
+avg / total       0.99      0.99      0.99       496
+
+Y
+
+[[224   0]
+ [  6 266]]
+
+             precision    recall  f1-score   support
+
+        2.0       0.97      1.00      0.99       224
+        6.0       1.00      0.98      0.99       272
+
+avg / total       0.99      0.99      0.99       496
+
+Z
+
+[[199   1]
+ [ 10 286]]
+
+             precision    recall  f1-score   support
+
+        2.0       0.95      0.99      0.97       200
+        6.0       1.00      0.97      0.98       296
+
+avg / total       0.98      0.98      0.98       496

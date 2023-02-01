@@ -1,0 +1,232 @@
+Accelerometer:
+t_values, fft_values, MSMMM, ASoS, IQR, f_max_mag, f_max_freq, f_skew, f_kurtosis, f_IQR, f_MSM, Energy
+
+Gyroscope:
+t_values, fft_values, MSMMM, ASoS, IQR
+
+SVM classifier
+
+[[217   0  10   0   0   0]
+ [  3 190  13   0   0   0]
+ [  0   0 203   0   0   0]
+ [  0   1   0 159  56  60]
+ [  0   0   0  65 189  30]
+ [  0   0   5  39  30 201]]
+             precision    recall  f1-score   support
+
+        1.0       0.99      0.96      0.97       227
+        2.0       0.99      0.92      0.96       206
+        3.0       0.88      1.00      0.94       203
+        4.0       0.60      0.58      0.59       276
+        5.0       0.69      0.67      0.68       284
+        6.0       0.69      0.73      0.71       275
+
+avg / total       0.79      0.79      0.79      1471
+_______________________________________________________________________________________________
+
+Accelerometer:
+t_values, fft_values, MSMMM, ASoS, IQR, f_max_mag, f_max_freq, f_skew, f_kurtosis, f_IQR, f_MSM, Energy
+
+Gyroscope:
+t_values, fft_values, MSMMM, ASoS, IQR, f_max_mag, f_max_freq, f_skew, f_kurtosis, f_IQR, f_MSM, Energy
+
+SVM classifier
+
+[[241   3  16   0   0   0]
+ [  0 202  31   0   0   0]
+ [  0   2 184   0   0   0]
+ [  0   1   5 144  45  44]
+ [  0   0   1  56 200  28]
+ [  0   2   6  35  21 204]]
+             precision    recall  f1-score   support
+
+        1.0       1.00      0.93      0.96       260
+        2.0       0.96      0.87      0.91       233
+        3.0       0.76      0.99      0.86       186
+        4.0       0.61      0.60      0.61       239
+        5.0       0.75      0.70      0.73       285
+        6.0       0.74      0.76      0.75       268
+
+avg / total       0.80      0.80      0.80      1471
+___________________________________________________________________________________________________
+
+Accelerometer:
+t_values, fft_values, MSMMM, ASoS, IQR, f_max_mag, f_max_freq, f_skew, f_kurtosis, f_IQR, f_MSM, Energy
+
+Gyroscope:
+MSMMM, ASoS, IQR, f_max_mag, f_max_freq, f_skew, f_kurtosis, f_IQR, f_MSM, Energy
+
+SVM classifier
+
+[[244   2   2   0   0   0]
+ [  1 188   3   0   0   0]
+ [  1   4 197   0   0   0]
+ [  0   0   0 143  68  55]
+ [  0   0   1  41 203  23]
+ [  0   0   7  34  32 222]]
+             precision    recall  f1-score   support
+
+        1.0       0.99      0.98      0.99       248
+        2.0       0.97      0.98      0.97       192
+        3.0       0.94      0.98      0.96       202
+        4.0       0.66      0.54      0.59       266
+        5.0       0.67      0.76      0.71       268
+        6.0       0.74      0.75      0.75       295
+
+avg / total       0.81      0.81      0.81      1471
+____________________________________________________________________________________________________
+
+Accelerometer:
+t_values, fft_values, MSMMM, ASoS, IQR, f_max_mag, f_max_freq, f_skew, f_kurtosis, f_IQR, f_MSM, Energy
+
+Gyroscope:
+t_values, MSMMM, ASoS, IQR, f_max_mag, f_max_freq, f_skew, f_kurtosis, f_IQR, f_MSM, Energy
+
+SVM classifier
+
+[[256   1   2   0   0   0]
+ [  1 230   6   0   0   0]
+ [  1   8 197   0   0   0]
+ [  0   0   0 135  67  44]
+ [  0   0   0  41 208  25]
+ [  0   0   4  36  20 189]]
+             precision    recall  f1-score   support
+
+        1.0       0.99      0.99      0.99       259
+        2.0       0.96      0.97      0.97       237
+        3.0       0.94      0.96      0.95       206
+        4.0       0.64      0.55      0.59       246
+        5.0       0.71      0.76      0.73       274
+        6.0       0.73      0.76      0.75       249
+
+avg / total       0.82      0.83      0.82      1471
+____________________________________________________________________________________________________
+
+Accelerometer:
+t_values, fft_values, MSMMM, ASoS, IQR, f_max_mag, f_max_freq, f_skew, f_kurtosis, f_IQR, f_MSM, Energy
+
+Gyroscope:
+N/A
+
+SVM classifier
+
+[[245   0   0   0   0   0]
+ [  1 226   0   0   0   0]
+ [  1   9 163   0   0   0]
+ [  0   0   0  62 141  61]
+ [  0   0   0  45 210  19]
+ [  0   0   0  45  39 204]]
+             precision    recall  f1-score   support
+
+        1.0       0.99      1.00      1.00       245
+        2.0       0.96      1.00      0.98       227
+        3.0       1.00      0.94      0.97       173
+        4.0       0.41      0.23      0.30       264
+        5.0       0.54      0.77      0.63       274
+        6.0       0.72      0.71      0.71       288
+
+avg / total       0.75      0.75      0.74      1471
+____________________________________________________________________________________________________
+
+Accelerometer:
+fft_values, MSMMM, ASoS, IQR, f_max_mag, f_max_freq, f_skew, f_kurtosis, f_IQR, f_MSM, Energy
+
+Gyroscope:
+f_max_mag, f_max_freq, f_skew, f_kurtosis, f_IQR, f_MSM, Energy
+
+SVM classifier
+
+[[254   2   5   0   0   0]
+ [  0 224  14   0   0   0]
+ [  1   3 179   0   0   0]
+ [  0   1  11 126  70  51]
+ [  0   0   3  45 188  14]
+ [  0   0  22  39  27 192]]
+             precision    recall  f1-score   support
+
+        1.0       1.00      0.97      0.98       261
+        2.0       0.97      0.94      0.96       238
+        3.0       0.76      0.98      0.86       183
+        4.0       0.60      0.49      0.54       259
+        5.0       0.66      0.75      0.70       250
+        6.0       0.75      0.69      0.72       280
+
+avg / total       0.79      0.79      0.79      1471
+____________________________________________________________________________________________________
+
+Accelerometer:
+fft_values, MSMMM, ASoS, IQR, f_max_mag, f_max_freq, f_skew, f_kurtosis, f_IQR, f_MSM, Energy
+
+Gyroscope:
+MSMMM, ASoS, IQR
+
+SVM classifier
+
+[[245   0   0   0   0   0]
+ [  1 237   2   0   0   0]
+ [  0   7 192   0   0   0]
+ [  0   0   0  70 110  57]
+ [  0   0   0  62 192  21]
+ [  0   0   6  37  26 206]]
+             precision    recall  f1-score   support
+
+        1.0       1.00      1.00      1.00       245
+        2.0       0.97      0.99      0.98       240
+        3.0       0.96      0.96      0.96       199
+        4.0       0.41      0.30      0.34       237
+        5.0       0.59      0.70      0.64       275
+        6.0       0.73      0.75      0.74       275
+
+avg / total       0.77      0.78      0.77      1471
+____________________________________________________________________________________________________
+
+Accelerometer:
+t_values, fft_values, MSMMM, ASoS, IQR, f_max_mag, f_max_freq, f_skew, f_kurtosis, f_IQR, f_MSM, Energy
+
+Gyroscope:
+fft_values, f_max_mag, f_max_freq, f_skew, f_kurtosis, f_IQR, f_MSM, Energy
+
+SVM classifier
+
+[[205   3  23   0   0   0]
+ [  0 183  29   0   0   0]
+ [  0   1 209   0   0   0]
+ [  0   0   6 155  57  53]
+ [  0   0   4  47 193  23]
+ [  0   3  12  39  29 197]]
+             precision    recall  f1-score   support
+
+        1.0       1.00      0.89      0.94       231
+        2.0       0.96      0.86      0.91       212
+        3.0       0.74      1.00      0.85       210
+        4.0       0.64      0.57      0.61       271
+        5.0       0.69      0.72      0.71       267
+        6.0       0.72      0.70      0.71       280
+
+avg / total       0.78      0.78      0.78      1471
+____________________________________________________________________________________________________
+
+Accelerometer:
+t_values, fft_values, MSMMM, ASoS, IQR, f_max_mag, f_max_freq, f_skew, f_kurtosis, f_IQR, f_MSM, Energy
+
+Gyroscope:
+f_max_mag, f_max_freq, f_skew, f_kurtosis, f_IQR, f_MSM, Energy
+
+SVM classifier
+
+[[244   3   2   0   0   0]
+ [  1 204   2   0   0   0]
+ [  0   5 182   0   0   0]
+ [  0   0   1 134  72  49]
+ [  0   0   1  51 209  30]
+ [  0   0   3  46  28 204]]
+             precision    recall  f1-score   support
+
+        1.0       1.00      0.98      0.99       249
+        2.0       0.96      0.99      0.97       207
+        3.0       0.95      0.97      0.96       187
+        4.0       0.58      0.52      0.55       256
+        5.0       0.68      0.72      0.70       291
+        6.0       0.72      0.73      0.72       281
+
+avg / total       0.80      0.80      0.80      1471
