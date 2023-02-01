@@ -1,4 +1,4 @@
-# Simultaneous Localization and Mapping (SLAM) in a single camera system
+# A data science approach to recognising activities from smartphone data
 
 Human activity recognition (HAR) is a tool that has become increasingly common and easier
 to perform over the last few years with the huge growth of people using smartphones equipped
@@ -25,4 +25,4 @@ producing a fall detection classifier which performed 100% precision with minima
 data in training/testing as well as an activity classifier that performed 99% precision classifying
 between five different activities.
 
-![Fingerprint](https://github.com/isaactallack/Single-Camera-SLAM/blob/main/images/fingerprint.png?raw=true)
+![Fingerprint](https://github.com/isaactallack/Smartphone-Activities/blob/main/images/fingerprint.png?raw=true)
